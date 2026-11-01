@@ -2,7 +2,7 @@
   "apps": {
     "gentleman": {
       "title": "Gentleman Function",
-      "description": "Move the passenger seat from the iDrive: make room for the rear passenger and put the seat back, two named memories, and a seat screen drawn like the seat switch (seat, backrest, side bolsters)",
+      "description": "Move the passenger seat from the iDrive on one simple page: make room for the rear passenger and put the seat back, adjust it, and two memories",
       "author": "Evan",
       "icon": "gentleman.png"
     },

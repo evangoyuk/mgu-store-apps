@@ -6,7 +6,7 @@ BMW's oap-sdk, which the head unit provides) and `mgu-store.json` with the title
 
 | App | Id | Version | What it does |
 |---|---|---|---|
-| Gentleman Function | `gentleman` | 1.6.1 | Moves the passenger seat (seat module 0x6E): make room for the rear passenger and return, two named memories, seat screen drawn like the seat switch, side bolsters |
+| Gentleman Function | `gentleman` | 2.0.0 | Moves the passenger seat (seat module 0x6E) on one simple page: make room for the rear passenger and return, adjust (forward/back, up/down, backrest), two memories |
 | Exhaust & Start/Stop | `exhaust_flap` | 1.3.5 | Exhaust flap and auto start/stop control |
 
 ## Install with the Store
@@ -16,9 +16,6 @@ in the list.
 
 Notes:
 
-- Gentleman's seat screen holds the iDrive controller itself, through the *Controller gate*
-  (`mgu-inputgate`) and the *GPU renderer* from [idrive7-apps](https://github.com/cauliflowermossgrape/idrive7-apps).
-  Without them the seat screen's buttons only work by touch.
 - If the same apps were installed earlier with the iDrive7 Apps Installer, remove them first, or the Store
   installs these beside them under another id.
 
