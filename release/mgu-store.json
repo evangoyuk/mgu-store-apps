@@ -8,9 +8,15 @@
     },
     "exhaust_flap": {
       "title": "Exhaust & Start/Stop",
-      "description": "Open or close the exhaust flap in every driving mode, and switch auto start/stop off (DME actuator control and routine over UDS)",
+      "description": "Open or close the exhaust flap in every driving mode, and switch auto start/stop off (DME actuator control and routine over UDS); starts with the head unit",
       "author": "Evan",
       "icon": "exhaust_flap.png"
+    },
+    "shift_lights": {
+      "title": "Shift Lights",
+      "description": "M-style shift lights on the instrument cluster: amber to red segments in the centre of the cluster, flashing at the shift point. Needs the Cluster renderer tool from robertnisipeanu/idrive-apps",
+      "author": "Evan",
+      "icon": "shift_lights.png"
     }
   }
 }
