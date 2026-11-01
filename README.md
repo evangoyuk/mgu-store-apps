@@ -6,7 +6,7 @@ BMW's oap-sdk, which the head unit provides) and `mgu-store.json` with the title
 
 | App | Id | Version | What it does |
 |---|---|---|---|
-| Gentleman Function | `gentleman` | 2.0.0 | Moves the passenger seat (seat module 0x6E) on one simple page: make room for the rear passenger and return, adjust (forward/back, up/down, backrest), two memories |
+| Gentleman Function | `gentleman` | 2.1.0 | Moves the passenger seat (seat module 0x6E) on one simple page: make room for the rear passenger and return, adjust (forward/back, up/down, backrest), two memories |
 | Exhaust & Start/Stop | `exhaust_flap` | 1.3.5 | Exhaust flap and auto start/stop control |
 
 ## Install with the Store
