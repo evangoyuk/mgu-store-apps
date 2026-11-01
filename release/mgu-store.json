@@ -1,0 +1,16 @@
+{
+  "apps": {
+    "gentleman": {
+      "title": "Gentleman Function",
+      "description": "Move the passenger seat from the iDrive: make room for the rear passenger and put the seat back, two named memories, and a seat screen drawn like the seat switch (seat, backrest, side bolsters)",
+      "author": "Evan",
+      "icon": "gentleman.png"
+    },
+    "exhaust_flap": {
+      "title": "Exhaust & Start/Stop",
+      "description": "Open or close the exhaust flap in every driving mode, and switch auto start/stop off (DME actuator control and routine over UDS)",
+      "author": "Evan",
+      "icon": "exhaust_flap.png"
+    }
+  }
+}
