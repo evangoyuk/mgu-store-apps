@@ -8,7 +8,7 @@ BMW's oap-sdk, which the head unit provides) and `mgu-store.json` with the title
 |---|---|---|---|
 | Gentleman Function | `gentleman` | 2.1.0 | Moves the passenger seat (seat module 0x6E) on one simple page: make room for the rear passenger and return, adjust (forward/back, up/down, backrest), two memories |
 | Exhaust & Start/Stop | `exhaust_flap` | 1.4.0 | Exhaust flap and auto start/stop control; starts with the head unit, so start/stop stays off without opening the app |
-| Shift Lights | `shift_lights` | 1.4.1 | BMW M-style shift lights at the top centre of the instrument cluster: 6 yellow and 4 red strips per side lighting from the ends in, the whole bar red and flashing at the shift point; starts with the head unit |
+| Shift Lights | `shift_lights` | 1.5.0 | BMW M-style shift lights at the top centre of the instrument cluster: 6 yellow and 4 red strips per side lighting from the ends in, the whole bar red and flashing at the shift point; works in every cluster view, Map view included; starts with the head unit |
 
 ## Install with the Store
 
