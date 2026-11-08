@@ -14,7 +14,7 @@
     },
     "shift_lights": {
       "title": "Shift Lights",
-      "description": "BMW M-style shift lights on the instrument cluster: 6 yellow and 4 red slanted strips per side at the top centre, lighting from the ends in; the whole bar turns red and flashes at the shift point. Needs the Cluster renderer tool from robertnisipeanu/idrive-apps",
+      "description": "BMW M-style shift lights on the instrument cluster: 6 yellow and 4 red slanted strips per side, lighting from the ends in; the whole bar turns red and flashes at the shift point. Move it and resize it on the cluster from the app. Needs the Cluster renderer tool from robertnisipeanu/idrive-apps",
       "author": "Evan",
       "icon": "shift_lights.png"
     }
